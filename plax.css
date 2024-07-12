@@ -28,8 +28,8 @@ header {
     background-color: rgb(39, 38, 38);
     box-sizing: border-box;
     padding: 20px;
-    position: fixed;
-    z-index: 999;
+/*     position: fixed;
+    z-index: 999; */
 }
 
 /* ...logo */
